@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework5</string>
+    <string name="termsAgreement">By singing up, you agree to Photo\'s <u> Terms of Service</u>
+        and <u>Privacy Policy</u> </string>
+</resources>
